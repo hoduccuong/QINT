@@ -1,0 +1,8 @@
+﻿  QInt.cpp
+C:\Users\M.2 SSD\source\repos\Qint\Qint\QInt.cpp(241,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\M.2 SSD\source\repos\Qint\Qint\QInt.cpp(240,6): warning C4101: 'QInt': unreferenced local variable
+  Source.cpp
+  Generating Code...
+C:\Users\M.2 SSD\source\repos\Qint\Qint\QInt.cpp(466,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\M.2 SSD\source\repos\Qint\Qint\QInt.cpp(365): warning C4715: 'operator<': not all control paths return a value
+  Qint.vcxproj -> C:\Users\M.2 SSD\source\repos\Qint\Debug\Qint.exe
